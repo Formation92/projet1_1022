@@ -1,2 +1,5 @@
 Bonjour !!!!!!!
 Ligne 2 du fichier1.txt
+Ligne 3
+Ligne 4
+Ligne 5
