@@ -1,1 +1,2 @@
 Bonjour !!!!!!!
+Ligne 2 du fichier1.txt
