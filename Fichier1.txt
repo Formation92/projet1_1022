@@ -9,3 +9,4 @@ Modif branche MASTER
 Modif 2 branche MASTER
 MODIF depuis FONCTIONNALITE1
 MODIF depuis depôt local
+Modif depuis dépôt distant
